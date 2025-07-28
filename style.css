@@ -1,0 +1,26 @@
+body {
+    background-size: cover;
+    background-image: url(jus.jpg);
+}
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+nav ul li a[href="fesripil.html"]  {
+    color: black;
+    font-weight: bold;
+}
+
+nav ul li a[href="Biodatakwn.html"] {
+    color: black;
+    font-weight: bold;
+}
+nav ul li a[href="infokls.html"] {
+    color: black;
+    font-weight: bold;
+}
+table {
+    color: white;
+}
